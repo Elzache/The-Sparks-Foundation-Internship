@@ -1,4 +1,4 @@
-# The-Sparks-Foundation-Intership
+# The-Sparks-Foundation-Internship
 This repository consists of the tasks I completed during my internship under The Sparks Foundation
 
 Task 1
